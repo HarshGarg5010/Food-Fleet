@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <a href="#-database-schema">Schema</a> •
+  <a href="#-database-schema">Schema</a> 
 </p>
 
 ---
