@@ -12,12 +12,7 @@
 </p>
 
 <p align="center">
-  <a href="#-project-overview">Overview</a> •
   <a href="#-database-schema">Schema</a> •
-  <a href="#-business-problems-solved">Business Problems</a> •
-  <a href="#-sql-concepts-used">SQL Concepts</a> •
-  <a href="#-how-to-run">How to Run</a> •
-  <a href="#-connect-with-me">Contact</a>
 </p>
 
 ---
