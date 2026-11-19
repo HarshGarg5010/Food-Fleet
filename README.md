@@ -238,8 +238,7 @@ SQL • PostgreSQL • Data Cleaning • CTEs • Subqueries • Window Function
 ## 📬 Connect With Me
 
 **[Your Name]**
-🔗 [LinkedIn]([YOUR_LINKEDIN_URL]) • 💻 [GitHub]([YOUR_GITHUB_URL]) • ✉️ [your.email@example.com]
-
+🔗 [LinkedIn](https://www.linkedin.com/in/harsh-garg-161878291?utm_source=share_via&utm_content=profile&utm_medium=member_android) • ✉️ harshgarg500@gmail.com
 ⭐ *If you found this project useful, please consider giving it a star!*
 
 <p align="center"><i>Turning Data into Decisions, One Query at a Time. 🍔</i></p>
